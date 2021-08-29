@@ -1,0 +1,207 @@
+{
+    "0:00:00": "Lecturo 4\nBackpropagation\nNeural Networks part \n"
+}{
+    "0:00:10": "Administrative\nA1isdueJan20(Wednesdy).150 hours left\nWarning Jan 18\uff08Monday\uff09isHoliday\uff08no class/office hours\nAlsonote\nLecturesarenon-exhaustive\nRead coursenotesforcompleteness\nI hold make up office hourson Wed Jan20.5pm@Gates259\nFei-FeiLi&AndrejKarpathy&JustinJahnson\nLecture4-2\n13Jan2016\n"
+}{
+    "0:00:13": "Administrative\nA1is due Jan 20(Wednesday).150hoursleft\nWarning.Jan 18(Mondy) isHoliday\uff08no class/officehou\nAlsonote\nLecturesarenon-exhaustive\nReadcoursenotesforcompleteness\nHll hold mke upoffice hoursoWed Jan20.5pm@Gates259\nLecture4-2\nFei-FeiLi&AndreiKarpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:00:16": "Administrative\nA1isdue Jan 20(Wednesay1u\nWaringJan18\uff08Monday)isHoliday\uff08no classlofficehours\nAlsonote\nLectures arenon-exhaustive\nReadcoursenotesforcompleteness\nHt hold make up office hours on Wed Jan20.5pm@Gates259\nLecture4-2\nFel-FeiLi&Andrel Karpathy & Justin Johnson\n13 Jan2016\n"
+}{
+    "0:00:26": "Administrative\nA1is due Jan20(Wednesay)1hourt\nWarning Jan 18 Monday) isHoliday\uff08no class/office hours\nAlso note\nLecturesarenon-exhaustive\nReadcoursenotesforcompleteness\nHlt hold make up office hours onWedJan20.5pmates259\nLecture 4 2\nFel-FeiLi&Andrei Karpathy &JustinJohnso\n13Jan2016\n"
+}{
+    "0:00:52": "Administrative\nA1is due Jan 20Wednesy1u\nWarning Jan 18(Monday)isHoliday\uff08noclass/office hours\nAisonote\nLecturesarenon-exhaustive\nReadcoursenotesforcompleteness\nPlt hold make up office hours onWea Jan20.5pm@Gates259\nLecture 4-2\nFel-FeiL&AndrelKarpathy&JustinJohnsoi\n13 Jan 2016\n"
+}{
+    "0:01:33": "Administrative\nA1isdueJan20(Wednesay)150 hoursleft\nWarningJan18 Monday)isolidy(noclass/fficeh\nAlsonote\nLectures are non-exhaustive\nReadcourse notes for completeness\nHhold make up office hoursoWed Jan20.5pm@Gates259\nLecture4-2\nFel-FeiLi&Andrei Karpathy & Justin Johnson\n13Jan2016\n"
+}{
+    "0:01:35": "Whereweare\ns=f\uff08aWy=W\nscores function\nSVMloss\nL=VCNL+MW\ndataloss+reqularization\nwant\nVwL\nLecture 4-3\nei-FeiL&AndrelKarpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:02:02": "Optimization\n5GD\nMomentum\nHAG\nAdaarad\nAdadeit\nRmsprop\nimage credits\noAlecRadford\nLecture4-4\nFei-FeiLi&AndreiKarpathy&JustinJohnsor\n13Jan2016\n"
+}{
+    "0:02:25": "GradientDescent\ndf\uff08x\uff09\uff09\nf\uff08x+h\uff09-f\uff08x\uff09\n1im\nh\nNumerical gradient slowel.approximateeayowi\nAnalytic gradient:fast:),exact\uff09r-prone\nIn practice,Deriveanalytic gradient,heckyour\nimplementationwithnumerical gradient\nLecture:4-5\nFei-FeiLi&AndrejKarpathy&Justin Johnson\n13 Jan 2016\n"
+}{
+    "0:02:43": "GradientDescent\ndf\uff08x\uff09\nf(r+h\uff09--f\uff08a\uff09\nlim\ndr\u4e940\n\u4e07\nNumerical gradient slowe(.approximtew\nAnalytic gradient.fast:\uff09,exact)-pone\nIn practice:Derive analytic qradient.checkyou\nimplementationwithnumerical gradient\nLecture4-5\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:02:48": "GradientDescent\ndf(x)\nf\uff08x+h\uff09-f\uff08x\uff09\nlim\nda\n\u4e940\nh\nNumerical gradient slowe\uff08.approximtew\nAnalyticgradient:fast:),exactr-pone(\nin practiceDerive analytic gradient check you\nimplementationwithnumerical gradient\nLecture 4-5\nFel-Fei Li&AndreiKaroathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:02:53": "GradientDescent\ndf\uff08x\uff09\nf(r+h--f\uff08x\uff09\n1im\n\u5370p\nh\n\u4e94\u4e8c0\nNumerical gradient slowe(approximateo\nAnalyticgradient:fast;),exact:),-pone\nIn practice,Derive analytic gradient.checkyou\nimplementation with numerical gradient\nLecture 4-5\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13 Jan 2016\n"
+}{
+    "0:03:01": "Optimization\nGG\nMomentum\nNG\nAdagred\nAdade\nmsomp\n[image credits\nAlecRadford\nLecture4-4\nFei-FeiLi&Andrej Karpathy&JustinJonnsor\n13Jan 2016\n"
+}{
+    "0:03:02": "Whereweare\ns=f\uff08W)=W\nscores funclion\nSVMloss\nL=WCHLA+MW\ndataloss+reqularization\nwant\nVwL\nLecture4,3\nFel-Fei Li&AndreiKarpathy&Justin Jonnson\n13 Jan2016\n"
+}{
+    "0:03:15": "GradientDescent\ndf(x\uff09\nf(+h\uff09-f(\uff09\nlim\n\u4e94\u4e000\nh\nNumerical gradientslow\uff08apoximteao\nAnalyticgradient:fast:),exact-p(\nIn practice:Deriveanalytic gradient.checkyour\nimplementationwithnumerical gradient\nLecture4-5\nFei-FeiLi&AndreKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:03:16": "Computational Graph\nW\ni\u4e09\nmax\uff080\uff0csj=8y+1\ns(scores)\nW\nRW\nLecture4-6\nFei-FeiLi&AndreiKarpathy&JustinJohnsor\n13Jan2016\n"
+}{
+    "0:04:49": "50\u53f7\nNeural TuringMachine\n9\n13Jan2016\n"
+}{
+    "0:05:17": "Neural Turing Machine\ninputtape\nloss\nLecture4-8\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:05:22": "50\u70b9\nNeural Turing Machine\n9\n13Jan2016\n"
+}{
+    "0:05:23": "X2\nf(a\uff0cy\uff0cz\uff09=\uff08x+y\uff09z\ne.g.x=-2y=5Z=-4\n95\nLecture4-10\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:12:31": ""
+}{
+    "0:12:32": "activations\nLecture4-22\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:15:28": "activations\nT\nocal gradient\n8\u5143\n8\nf\nL\ny\ny\n\u4e9a8\ngradients\n0L\nei Li&ArKeu thy&Justin Johnson\nLecture4-27\n13Jan2016\n"
+}{
+    "0:16:11": "69\n1\nAnotherexample\nf(w,\u00b1\uff09\n\u4e8c\n1+e\n8\n\u5fc300\nWI\uff09\uff08+\uff09\u9762H\nM\nLecture4-28\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:22:58": "1\nAnotherexample\nf(w\uff0cx\uff09=\n1+e-\uff08Wm+Ua1+w\n[local gradient]x[its gradient\n[1]\u00d7[0.2]=0.2\n[1]X[0.2]=0.2\uff08both inputs!)\n00D\nF0F0H086\ndf\ne\ndf\nf\uff08x\uff09=\n1/\nf(a\uff09e\u00b2\nd\ndr\nd=1\nf\uff08x\uff09=c+a\nf\uff08x\uff09=0x\n\u4e8c0\nda\nLecture4-39\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:23:07": "1\nAnotherexample\nf(w.x\uff09\n1+ea+u2\n100\n[ocal gradient]x[itsgradient]\n[11\u00d7[0.2]=0.2\n[1]x[0.2]=0.2\uff08both inputs!\n0000\ndf\ndf\nf\uff08x\uff09=\n-1\uff0f\nf\uff08a\uff09e\u00b2\ndo\ndf=1\nd\n\uff082\uff09=01\nf\uff08x\uff09=c+x\nd\ndE\nLecture4-39\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:23:14": "1\nAnotherexample\nf(wx\uff09\n1e-n\n200\n[ocal gradient]x[isgradient\n\u8c03\n11]\u00d7[0.2]=0.2\n[1]X[0.2]=0.2\uff08both inpts!)\nK6L30\naf\n1\ndf\nf\uff08x\uff09=\n-118\nf(a\uff09=c\nd=1\nd\nL.\uff082\uff09=02\nda\nff\uff082\uff09=C+\u5de5\ndr\nLecture4-39\nFei-Fei Li& AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:23:15": "1\nAnotherexample\nf(W,x)\n14\nX00\n[ocal gradient]x[itsgradient\n[11\u00d7[0.2]=0.2\n[1]X[0.2]=02\uff08both inputs!\n0.00\n1\nwo\ndf\ndf\nf\uff08z\uff09=\n-1/c\nf(x\uff09=c\n\u5c0f\nd\n\uff08x\uff09=mm\nfe\uff08x\uff09=c+x\n\u4e09\ndr\nLecture4-39\nFei-FeiLi&AndrejKarpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:23:16": "1\nAnotherexample\nf(w\u30012\uff09=\n1te-(wa+uf+wy\nAn100\n[ocal gradient]x[isradient\n[1]\u00d7[0.2]=0.2\n[11x[0.2]=0.2\uff08both inputs!)\n(000\n1\n\u7f51\u83dc\uff08+\uff09 2da\uff09\n\u4e09\ndf\n1\nd\u5382\nf\uff08x\uff09=\n-1\nj(x\uff09=e\u00b2\n1\nd\nf\uff08x\uff09=0ur\nfe\uff08a\uff09=C+x\naa\ndr\nLecture4-39\nFei-Fei Li&Andrej Karpathy&Justin Johnson\n13 Jan2016\n"
+}{
+    "0:23:18": "1\nAnotherexample\nf(u,x\uff09\n1++12\n[ocal gradient]x[itsgradient\n[1\u00d7[0.2]=0.2\n[1]x[0.2]=02(both inputs!\n\u4e00e\ndf\n1\ndf\nf\uff08n\uff09=\n\u20141/\nf\uff08a\uff09c\nT\nd\nd=1\nL.\uff08x\uff09=mr\nf\uff08x\uff09=c+r\nd\nLecture4-39\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:23:22": "\u5fc3\u70b9\n1\nAnotherexample\n(wx\uff09\n1+e-+wixp+m2\nAOYIO\n[ocal gradient]xisgradient\nR Lm\n11\u00d7[0.21=0.2\n[1]x[0.2]=02\uff08both inputs\n000\n1\ndf\n1\nf\uff08x\uff09=\n-1/6\nf(x\uff09e\nd1\naf\nfe\uff08a\uff09=c+x\n\uff08x\uff09=0r\nda\ndr\nLecture4-39\nFei-FeiLi&AndreiKarpathy&Justin Johnson\n13 Jan2016\n"
+}{
+    "0:23:24": "1\nAnotherexample\nf(w.x)\n14--u1wg+an2\uff09\n0100\n[localgradient]x[itsgradient\n[1]\u00d7[0.2]=0.2\n[1]x[0.2]=0.2\uff08both inputs!\n0000\ndf\ndf\nf\uff08r\uff09=\n18\nf(x\uff09=c\u00b2\nda\ndf=1\naf\n\u3002\uff08z\uff09=0nx\nf\uff08x\uff09=c+r\nda\nda\nLecture4-39\nFei-FeiLi&Andrei Karpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:23:26": "1\nAnotherexample\nf(w\u3001x)=\n1+e-(axn+uia+W\uff09\uff09\n00\n[lacal gradient]x[itsgradient\n[1\u00d7[0.2]=0.2\n[1]x[0.2]=0.2\uff08both inputs!\uff09\n1\u7968\uff080\u4ef7\uff08\uff09\nwo\ndf\n1\ndf\nf\uff08r\uff09=\n-1\nf(x\uff09e\nda\nL.\uff08z\uff09=0x\nda\nf\uff08x\uff09=c+x\ndie\nLecture4-39\nFei-Fei Li& AndrejKarpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:23:29": "\u54c1.\n1\nAnotherexample\nf(\u3001x)\n\u4e09\n1+ex+uie\uff08+a\uff09\nMKO\n[ocal gradient]x[itsgradient\n[1\u00d7[0.2]=0.2\n[1]x[0.2]=0.2\uff08both inputs!)\n00\n1\n\u201481-5\u5740\uff08\uff08\uff09\u53f76\uff09\ndf\nd\n1\nf\uff08n\uff09=\n-1/x\nf(\u5168\uff09=c\u00b2\nd\n\u5c0f\nd=1\ndf\nL.\uff082\uff09=02\nda\n\u4e090\nf\uff08x\uff09=.c+a\nda\nLecture4-39\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:23:30": "1\nAnotherexample\nf(w\u3001x)=\n1e(+m\uff09\nOXIO\n[ocal gradient]x[itsgradient\n111\u00d7[0.2]=0.2\n[1]x[0.2]=0.2\uff08both inputs!\n30\nExp\uff09\ndf\n1\ndf\nf\uff08r\uff09=\n-1/8\nf(x\uff09=c\u00b2\n\u5c0f\nq=1\nd\n\uff08\uff08\uff09\u4e00\nf\uff08n\uff09=c+r\nda\nLecture4-39\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:23:39": "1\nAnotherexample\nf(w.x\uff09=\n1+ewax+w\uff08f+w\uff09\uff09\nOYDO\n[ocal gradient]x[tsgradient\n[1]\u00d7[0.2]=0.2\n[1]X[0.2]=0.2\uff08both inputs!)\nM\n000\n1\n1\ndf\nf\uff08n\uff09\n-1/\nf(\u00b1\uff09=e\n\u5c0f\ndf\nd=1\nf.\uff08z\uff09=02\nda\nfe\uff08a\uff09=c+x\nLecture 4-39\nFei-FeiLi&AndreiKarpathy&Justin Johnson\n13 Jan2016\n"
+}{
+    "0:24:21": "1\nAnotherexample\nf(w]\uff09=\n1e+U\n\u8bdd2.100\n[ocal gradient]x[its gradient\nx0:[2]\u00d7[0.2]=04\n1620\nW0:[-1]x[0.2]=-0.2\n\u976200\ndf\n1\ndf\nf(x\uff09=\n-1/\nf\uff08x\uff09=e\u00b2\nd\n1\nf.\uff08x\uff09=0r\n\u4e090\nfe\uff08x\uff09=c+a\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:23": "1\nAnotherexample\nf(Ux)=\n1te+8\uff08a+wy\uff09\nWO.2.D0\nO\nocal gradientx[itradient\nX0:[2]x[0.2=04\nwO:[-1]\u00d7[0.2]=-0.2\n10\u65e5\n0-\u7968000\u65b00\nK7\u53d700\ndf\n1\ndf\nf\uff08r\uff09=\n-1/8\nf\uff08x\uff09c\u00b2\nda\naf\ndf=1\nf.\uff08x\uff09=am\nd\nfe\uff08x\uff09=c+x\nde\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:24:25": "1\nAnotherexample\nf(Ux)=\n1+e-wwa+uy\nN0200\n2\n[ocal gradient]x[its gradient\nX0\uff1a[2]x[0.2=04\nQ\nW0:[-1]x[0.2]=-0.2\n0000160\ndf\n1\ndf\nf(n\uff09=\n\u20141/\nf\uff08x\uff09-c\u00b2\ndr\ndf=1\nd\n\uff08x\uff09=ax\ndo\nf\uff08a\uff09=C+x\n\u4e2d\nLecture4-41\nFei-Fei Li&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:26": "1\nAnotherexample\nf(Ux\uff09=\n1+e-a+1+32\uff09\nA0200\n20\n{local gradient]x[its gradient\nX0:[2]X[0.2]=0.4\nQ820\nwO:[-1]X[0.2]=-0.2\ndf\n1\ndf\nf\uff08z\uff09=\n\u20141\nf(x\uff09e\u00b2\nd\nd=1\naf\nf.\uff081\uff09=0r\nfe\uff08a\uff09=c+\nda\n\u4e09\nLecture4-41\nFei-Fei Li&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:32": "1\nAnotherexample\n(w\uff09=\n1e+2\nDCON\n[local gradient]x[its gradient\nX0[2]X[0.21=0.4\nQ:850\nW0:[-1]x[0.2]=-0.2\n01\ndf\n1\ndf\nf\uff08r\uff09=\nf\uff08r\uff09/c\u00b2\n-1\uff0f\nd1\nd\nL.\uff08x\uff09=0m\uff09\naa\n\u4e09\uff08\nfe\uff08x\uff09=c+x\nde\nLecture 4-41\nFei-Fei Li&AndrejKarpathy&Justin Johnson\n13 Jan2016\n"
+}{
+    "0:24:34": "1\nAnotherexample\nf(w\u3001=\uff09=\n1+e-\n2.00\n{ocal gradient]x[its gradient]\nx0[2]x[0.2]=04\nw0:[-1]x[0.2]=-0.2\n\u9762\u97620\n\u53c87\u53ef.00\n021\ndf\n1\ndf\n(\u5de5\uff09\n\u20141/\nf(a\uff09=e\u00b2\nde\ndf\ndi=1\n.\uff08\u56db\uff090\nda\n\u4e090\nfa\uff08a\uff09=c+\nd\nLecture4-4\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:35": "1\nAnotherexample\nf(U)=\n1+e-\uff08Wa2ux\uff08+m2\uff09\nAOXDD\n[ocal gradient]x[its gradient\nx0\uff1a[2]\u00d7[0.2=04\nw0:[-1]X[0.2]=-0.2\n0\ndf\n1\ndf\nf\uff08)\n-1/6\nf\uff08x\uff09=c\u00b2\nde\nd=1\n\uff08[\uff09=ar\n\u4e090\nf.\uff08x\uff09=C+r\nda\nLecture4-41\nFei-Fei Li&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:36": "1\nAnotherexample\nf(w(x)=\n1e+1\n12\n{ocal gradient]x[itsgradient\nX0:[2]x[0.2]=0.4\nw0:[-1]\u00d7[0.2]=-0.2\n000\ndf\ndf\nf()=\n-1/8\n\uff08+\uff09=e\nd\ndf\nL\uff08x\uff09=0r\ndd\nfe\uff08a\uff09=c+x\nde\nLecture4-41\nFei-Fei Li&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:40": "1\nAnotherexample\nf(wx)\n1te-\uff08wa+uixe+w\uff09\uff09\nO2.00\n[local gradient]x[its gradient\nx0[2]x[0.2=04\nw0:[-1]x[0.2]=-0.2\n(000\n03\nd\n1\nf\uff08\uff09\nf(x\uff09e\n-1\uff0f8\nd\uff01\ndf\n.\uff08x\uff09=0x\nda\nf-\uff08x\uff09=C\u5341\u6b63\nda\nLecture4-41\nFei-Fei Li&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:41": "1\nAnotherexample\nf(Ux)=\n1+e-m2\nwa2.00\n[ocal gradient]x[its gradient\nX0:[21X[02]=0.4\nw0:[-1]x[0.2]=-0.2\n0000\ndf\n1\nf\uff08\u5de5\uff09\nf\uff08ar\uff09\u4e09Es\n-1/8\n\u9762\nda\ndf=1\nL\uff08x\uff09=0r\nfe\uff08a\uff09=c+r\naa\n\u4e09\uff08\ndr\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:24:42": "1\nAnotherexample\nf(UH)=\n1+e-x+wa+m2\nA700\n[local gradient]x[its gradient\n1\nXO[2]\u00d7[0.2=04\n0502\uff09\nw0:[-1]x[0:2]=-0.2\n\u976200\ndf\n1\nf\uff08x\uff09\n-1/6\nf\uff08x\uff09==\u00b2\ndr\nd=1\n\uff08H\uff09=0m\nf\uff08x\uff09=\u5341\nder\nLecture:4-41\nFei-Fei Li& Andrej Karpathy& JustinJohnson\n13 Jan2016\n"
+}{
+    "0:24:43": "1\nAnotherexample\nf(wx)=\n1+e-U+m\n40200\n{local gradient]x[its gradient\nx0[2]x[0.21=04\nw0:[-1]x[0.2]=-0.2\n(000\nW\ndff\ndf\n1\nf\uff08\uff09\nf(x)=c\n-1/8\nd\naf\nfe\uff08a\uff09=c+\u03c0\n.\uff08x\uff09=0r\nda\n\u4e090\n\u9762\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:44": "1\nAnotherexample\nf(w)=\n1+em\nMO300\n[local gradient]x[its gradient]\n0\nx0:[2]\u00d7[0.2]=04\nQ1820\nw0:[-1]x[0.2]=-0.2\n\u976200\n0\ndf\ndf\n1\nf\uff08r\uff09=\n=1/6\nf(x\uff09=c\u00b2\nd\ndf=1\nf.\uff08x\uff09=c+m\nt\uff08z\uff09=am\n\u4e090\nd\nLecture4-41\nFei-Fei Li& AndrejKarpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:24:45": "1\nAnotherexample\nf(U)\n1+c-\uff09wa\uff08+m2\nAO ED\n{local gradientx[its gradient\n0:121X[0.2=04\n\u5341320\nw0:[-1]\u00d7[0.2]=-0.2\n100\ndf\ndf\n\uff08x\uff09\n1/8\nf\uff08a\uff09=\uff08c\u00b2\nd\nL\uff08z\uff09=ax\n\u4e090\nf-\uff08x\uff09=c+x\ndr\nLecture4-41\nFei-Fei Li& Andrei Karpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:24:46": "1\nAnotherexample\nf(Wx)=\n1e-\u8def\uff09+W\uff09\n0300\n\u95e8\n[local gradient]x[its gradient\n\uff08\u4e0aa\nx0[2]\u00d7[02=04\n+00\nw0:[-11X02]=-0.2\n100\nW\naf\ndf\nf\uff08n\uff09=\nf(x\uff09=c\n-1/\n\u9762\n\u60e0=1\nfe\uff08a\uff09=c+x\n\uff08z\uff09=0m\nda\nda\nLecture4-41\nFei-Fei Li&Andrej Karpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:24:47": "1\nAnotherexample\nf(\uff0c)\n1+e-0wa+12\nO XIEO\n\u6240\n[ocal gradient]x[its gradient]\n\uff08\uff09\u9762\uff09\nx0[21x[0.21=04\nw0:[-1]x[0.2]=-0.2\n000\n\u54c1\ndf\n1\ndf\nf\uff08x\uff09=\nf\uff08x\uff096\n\u20141/\nd\n\u90531\nd\nf\uff08n\uff09=.c+m\n\uff082\uff09=\nda\n\u4e090\ndxc\nLecture4-4\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:24:48": "1\nAnotherexample\n(U)=\n1e-+a(+12\uff09\nwO.200\nO.80\n[local gradient]xis radient\nx0[2]\u00d7[0.2=04\nOHB20\nw0:[-1]X[0.2]=-0.2\nWL\ndf\ndf\n1\nf(z\uff09=\nf(x)c\u00b2\n-1/x\nd\nd\uff01\nf.\uff08z\uff09=0r\nf-\uff08x\uff09=c+x\nda\n\u4e090\ndx\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:49": "1\nAnotherexample\nf(U)=\n1+ewn0+m\nA200\nX\uff09\u9ad8\n{ocal gradient]x[its gradient\nX0\uff1a[21x[0.21=0.4\nD0\nw0:[-1]\u00d7[0.2]=-0.2\n\u53ef00\ndf\n1\ndf\nf\uff08x\uff09\n-1/8\nf(a\uff09=s=\n\u516c\nda\naf\n.\uff08x\uff09=0\nda\n\u4e090\nf.\uff08x\uff09=c+x\nde\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:50": "1\nAnotherexample\n(U=\uff09=\n1+e-(wao+waym\nO200\n{local gradient]x[its gradient\nX0\uff1a12]\u00d7[0.2=04\n\u5341\u6708\u54c10\nw0:[-1]x[0.2]=-0.2\n(000\ndf\n1\ndf\nf(x)=\nf\uff08a\uff09=es\n-1/\nd\n\u7f50=1\n\u65f6\n\uff08x\uff09=ax\nf\uff08x\uff09=c+\n\u4e090\ndF\nLecture4-41\nFei-Fei Li&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:51": "1\nAnotherexample\nf(w\u3001\u5de5)\nma300\n[ocal gradient]x[its gradient\nx0:[2]\u00d7[0.21=04\nCH\nWO:[-1]X[0.2]=-0.2\n00\ndf\n\u4e00\ndf\nI\nf\uff08n\uff09=\n-1/\u56fe\nf(a\uff09e\u00b2\n\u5c0f\nf\uff08x\uff09=0x\nf\uff08a\uff09=c+\nda\n\u4e8c\nde\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:24:53": "1\nAnotherexample\n(wH)\n1++01x+u\nM0.300\n\u4e2d\n{ocal gradient]x[its gradient]\nX0[21\u00d7[0.21=04\nw0:[-1]x[0.2]=-0.2\n100\ndf\n1\ndf\nce\nf\uff08r\uff09=\n\u4e8c1\nf(a\uff09=e\u00b2\n\u9762\nd\nd=\n\u3002\uff082\uff09=02\nf(a\uff09=c+c\n\u4e09\nd\nLecture4-41\nFei-FeiLi& Andrej Karpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:24:54": "1\nAnotherexample\nf(U)=\n1+e-+n+w\uff09\na200\nocalgradient]xjigradient\nx0\uff1a[2]\u00d7[0.2=04\n+130\nW0.[-1]x[0.2=-0.2\n000\nx1000\n\u54c1\ndf\n1\ndf\nf\uff08r\uff09=\n\u20141/8\nf(a\uff09=c\u00b2\nd\nd=1\n\uff08x\uff09=0\nf\uff08\uff09=c+\n\u4e090\nda\nLecture4-41\nFei-FeiLi&AndrejKaroathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:56": "1\nAnotherexample\nf(wx)\n1+e-+w+a\uff09\nWO.2.D0\n[ocal gradient]x[its gradient]\nx0[21x[0.21=04\nWO:[-1]x[0.2]=-0.2\n100\ndf\nf\uff08r\uff09=\n-18\nf\uff08x\uff09=e\u00b2\n\u5c0f\nd=\uff01\nf.\uff08a\uff09=ar\nfe\uff08x\uff09=c+\u03c0\n\u4e8c\ndr\nLecture 4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:24:57": "1\nAnotherexample\nf(U)2)=\n1+ewwp+m2\nM0200\n[ocal gradient]x[its gradient]\n012]\u00d7[0.2=04\nw0:[-1]x[0.2]=-0.2\n00\n10\u7c730-0\u76d600\nW\ndf\n\u4e00e\n1\ndf\nf(r\uff09\n-18\nf\uff08a\uff09=e\u00b2\nd\n\u968f=1\nd\n\uff08x\uff09=0r\nf.\uff08x\uff09=c+r\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:00": "1\nAnotherexample\n(w,H)=\nDO\n{ocal gradient]x[its gradient]\nx0[21\u00d7[0.2=04\n820\nw0:[-1]x[0.2]=-0.2\n00g\n08\ndf\n\u4e00\ndf\n1\n\uff08\uff09\n-1/8\nf\uff08a\uff09e\u00b2\n\u5f00\nd\nd=1\nL.\uff08x\uff09=011\nda\n\u4e8c\nfe\uff08x\uff09=c+\n\u4e2d\nLecture4-41\nFei-Fei Li& AndreiKarpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:25:01": "\u7f8e\u70b9\n1\nAnotherexample\nf(w\uff09\n1.+6m+m\uff08a\uff08+m2\uff09\nMO.2.00\n120\nflocal gradient]x[its gradient\nx0\uff1a[21\u00d7[0.21=0.4\nw0:[-1]x[0.2]=-0.2\ndf\ndf\nf\uff08\uff09=\n1/c\nf\uff08a\uff09=e\nda\nd=\ndf\n.\uff08x\uff09=0r\nf\uff08a\uff09=C+x\nda\ndr\nLecture4-41\nFei-Fei Li&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:02": "1\nAnotherexample\n(w\u00b1)=\n1+e-\uff08\u5730+m\nwO700\nQ\u90e8\n[ocal gradient]x[its gradient\nx0[2]x[0.2]=0.4\nw0:[-1]x[0.2]=-0.2\n100\n0\u79680200\ndf\n\u4e006\ndf\n1\nf\uff08\uff09\nf\uff08x\uff09=e\n-1/\n\u5c0f\nd=1\ndf\nf\uff08x\uff09=c+x\n\uff082\uff09=0r\nda\n\u4e09\nd\nLecture:4-41\nFei-Fei Li&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:05": "1\nAnotherexample\n(w)\n1+\nA0200\nX\uff09\n[local gradient]x[its gradient]\nx0[2]X[0.21=0.4\nT\n-390\nw0:[-1]x[0.2]=-0.2\ndf\ndf\n1\nf\uff08n\uff09\n-1/8\nf(a\uff09e\n\u7f50=1\n\uff082\uff09=01\nfe\uff08x\uff09=c+x\ndn\n\u4e00\u4e1a\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:08": "1\nAnotherexample\nf(w)\n1em+=2\n402330\n{ocal gradient]x[its gradient]\nx0[2]x[0.2]=04\nTH\n+HgE0\nw0.[-1]\u00d7[0.2]=-0.2\n\u987a0\ndf\n1\ndf\nf()=\nf\uff08\u4e91\uff09=e\u00b2\n-1/8\nd=1\nfe\uff08a\uff09=c+r\nL\uff08z\uff09=0r\n\u4e09\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:09": "\u7f8e\u70b9\n1\nAnotherexample\nf()\uff0cx\uff09=\n1e+2\n03.00\n{ocal gradient]x[its gradient\nX012]X[0.2]=04\nQ-0\nw0:[-11\u00d7[0.2]=0.2\nWL\n1000\n40 00\ndf\n1\ndf\nf\uff08a\uff09=\nf\uff08x\uff09=c\u00b2\n-1\uff0f\n\u503c1\n\uff082\uff09=012\nda\n\u4e096\nfe\uff08a\uff09=c+\ndr\nLecture 4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:12": "1\nAnotherexample\nf(U)=\n1+e+m2\uff09\nO200\n\uff0982\n{ocal gradient]x[its gradient\nX0[2]X[0.2]=04\nM\nw0:[-1]x[0.2]=-0.2\nWL\n\uff08000\n\u95e81\u56fd00\ndf\ndf\nf\uff08\uff09=\nf(x\uff09e\n-1/\nd\n=\nfe\uff082\uff09=C+x\n\u4e86\u3002\uff08x\uff09=01\n\u4e090\ndee\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:13": "1\nAnotherexample\nf(w\u3001x)=\n1+c-\uff08+wax+m2\n0100\n[ocal gradient]x[its gradient\nX0[21X[0.2=04\nw0:[-1]x[0.2]=-0.2\n100\ndf\n1\ndf\nf\uff08x\uff09=\nf(x\uff09e\u00b2\n18\n\uff08x\uff09=0m\nfe\uff08a]=C+H\nd\nLecture4-41\nFei-Fei Li&AndreiKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:25:14": "1\nAnotherexample\nf(w)x\uff09=\n1+e-x+m2\n03:00\nocal gradient]x[itsgradient]\n\uff08\u5e7f\u56fd\nX0[2]x[0.2]=04\n+1\u8bdd80\nw0:[-1]x[0.2]=-0.2\n000\n00000080\ndf\n1\ndf\nf\uff08z]=\nfa\uff09\u4e09e\n\u4e8c18\nd=1\n\uff08Z\uff09=a\nfe\uff08a\uff09=c+a\naa\ndr\nLecture4-41\nFei-FeiLi&AndreiKarpathy&Justin Johnson\n13 Jan2016\n"
+}{
+    "0:25:15": "1\nAnotherexample\nf(wx)=\n1+e-a+w\uff08a+w\uff09\uff09\n200\n80\n[ocal gradient]x[its gradient]\nx0\uff1a121\u00d7[0.2=04\nwO:[-1]\u00d7[0.2]=-0.2\n\uff08000\n77 100\nWH\n021\ndf\n1\ndf\nf\uff08x\uff09=\n\u20141/\nf\uff08a\uff09e\n\u5fc3\ndr\ndf=1\ndf\nt\uff08x\uff09=au\nfe\uff08a\uff09=C+a\nda\n\u4e090\ndr\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:16": "1\nAnotherexample\nf(=)=\n1+e+my\n40\uff09.00\n[ocal gradient]x[its gradient]\n0[21x[0.2=0.4\nw0:[-1]X[0.2]=0.2\nOLI3O\ndf\n1\ndf\n\uff08r\uff09=\n-\u20141/\n(x\uff09=e\ndr\ndf\nf\uff08a\uff09=C+1\nf.\uff082\uff09=80\nda\ndE\nLecture4-41\nFel-FeiLi&AndrejKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:25:17": "1\nAnotherexample\nf(w,)=\n1e+W3\nO.200\n020\n[local gradient]x[its gradient\nx0\uff1a[21\u00d7[0.2=04\nE\uff09320\nWO:[-1]\u00d7[0.2]=-0.2\n000\ndf\ndf\n1\nf\uff08r\uff09=\n-1/\nf\uff08a\uff09s\n\u5c0f\ndf=1\nL\uff08x\uff09=am\n\u4e090\nfe\uff08x\uff09=c+x\ndr\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:19": "\u987a \u9ad8\n1\nAnotherexample\nf(w)=\n1+e-w\uff09w+3\n0.200\n[local gradient]x[its gradient\nX0121X[0.21=04\n\u91cf\nw0:[-1]x[0.2]=-0.2\nW30\n0\u796800\u5e7400\nx120\ndf\nI\n\uff08r\uff09=\nf\uff08x\uff09=c\u00b2\n-1/8\nd\nd=1\ndf\nfe\uff082\uff09=C+x\nt.\uff082)=0x\nda\ndr\nLecture4-41\nFei-Fei Li&AndreiKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:25:21": "1\nAnotherexample\nf(U)=\n1e-wx\uff08+m\uff09\nO2.00\n[local gradient]x[its gradient]\nxO[21x[0.2]=04\nO80\nw0:[-1]x[0.2]=-0.2\ndf\n1\ndf\nf\uff08x\uff09=\n-1\n(a\uff09=e\u00b2\nd=1\nL\uff08x\uff09=07\nda\n\u4e090\nfe\uff082\uff09=c+r\n\u4e2d\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:22": "1\nAnotherexample\nf(u)=\n1+e-+We+12\nMOXDO\n[local gradient]x[its gradient\nx0[21\u00d7[0:2]=0.4\nw0:[-1]x[0.2]=-0.2\n0000\n00\n\u54c1\ndf\n1\ndf\nf\uff08n\uff09=\n-18\nf\uff08a\uff09=e\u00b2\nd\ndf=1\naf\nf\uff08x\uff09=0\nfe\uff08x\uff09=c+\naa\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:25:23": "1\nAnotherexample\nf(U,=\uff09=\n1\u5341e-+\nn200\n\u95e8\n[ocal gradient]x[its gradient\nx0[21X[0.2=04\nw0:[-1]x[0.2]=-0.2\n-\uff08\uff080 Hd NG0\n0\ndf\n1\ndf\nf\uff08r\uff09=\nf\uff08x\uff09e\u00b2\n\u20141/\n\u5c71\nda\ndf=1\n\uff08x\uff09=0x\nfa\uff08x\uff09=c+x\ndir\nLecture 4-41\nFei-Fei Li&Andrej Karpathy&Justin Johnson\n13 Jan2016\n"
+}{
+    "0:25:25": "1\nAnotherexample\nf(w.x)=\n1e+\n0200\n[local gradient]x[its gradient\nx0[2]\u00d7[0.2]=04\nw0:[-1]x[0.2]=-0.2\n000\nW\ndf\nf\uff08x\uff09=\n-1/8\nf(x)=\u00b2\u00b2\nd=i\nfe\uff08a\uff09=c+x\nf\uff08z\uff09=an\nda\ndr\nLecture4-41\nFei-FeiLi&AndreiKarpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:25:27": "1\nAnotherexample\nf(w\u3001x)=\n1e0+W\n0 100\n20\n{ocal gradient]x[itsgradient]\n\uff08\u4e0a\nX0:[21X[0.2]=04\nQ30\nwQ:[-1]x[0.2]=-0.2\n00\nM\ndf\n1\nf\uff08r\uff09=\nf\uff08\uff09e\u00b2\n1\ndr\n=1\ndf\n\uff08x\uff09=01\naa\n\u4e8c\nf\uff08x\uff09=c+r\nLecture4-41\nFei-Fei Li&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:30": "1\nAnotherexample\nf(U\uff0c2)=\n1+e-(x+wa+m2\n40200\n{local gradient]x[its gradient\nx0:[21x[0.2=0.4\n0820\nw0:[-1]\u00d7[0.2]=-0.2\n\u8bf730\ndf\ndf\nf\uff08z\uff09=\n-18\nf(x\uff09=e\u00b2\ndf=i\naf\nfe\uff08a\uff09=c+x\n.\uff08z\uff09=0\nda\nda\nLecture4-41\nFei-FeiLi&AndreiKarpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:25:34": "1\nAnotherexample\nf(wx)\n1+e-+0\uff09p\uff08+m\uff09\uff09\n40200\n{ocal gradient]x[its gradient\n0:121\u00d7[0:2=04\nw0:[-1]x[0.2]=-0.2\n30\ndf\n1\ndf\nf\uff08x\uff09\n-1/\nf(a\uff09=c\n\u5c0f\ndi=1\nf\uff082\uff09=01\nfe\uff08x\uff09=c+x\n\u4e090\ndr\nLecture4-41\nFei-FeiLi&AndreiKarpathy&Justin Johnson\n13 Jan2016\n"
+}{
+    "0:25:35": "1\nAnotherexample\nf(w\u3001x)=\n1exx+w\nwi1o0\nQ-0\n{localgradient]x[itsgradient]\n\u53e3\nx0:[2]x[0.2j=04\nw0:[-1]x[0.2]=-0.2\n0.00\ndf\n1\ndf\nf\uff08x\uff09=\n=1/8\nf(=\uff09=c\u00b2\n\u9762\ndf=1\nfe\uff082\uff09nC+r\n\uff08x\uff09=0m\ndn\n\u4e090\nduc\nLecture4-41\nFei-FeiLi&Andrej Karpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:25:36": "1\nAnotherexample\n(wx)=\n1+e+W\uff09\n200\n[ocal gradient]x[its gradient\nX0\uff1a121X[0:2]=0.4\nw0:[-1]\u00d7[0.2]=-0.2\n\u976200\n0900010\nd\u5382\nf\uff08r\uff09=\n-1/\nf\uff08a\uff09=c\u00b2\nde\nd\nd=1\nL\uff08z\uff09=0\nfe\uff08a\uff09=c+r\ndo\ndr\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:37": "1\nAnotherexample\n(w\uff09=\n1+e-2\n0.200\n{ocal gradient]x[itsgradient\nX0.121\u00d7[0.21=04\n\uff08+\u4ea7380\nw0:[-1]x[0.2]=-0.2\n100\n00\uff1a00000\ndf\n1\ndf\nf(n\uff09=\n-1\uff0f\nf\uff08a\uff09e\u00b2\n\u5c0f\n\u5c0f\ndf=1\nf\uff08\uff09=0r\nfe\uff08x\uff09=c+r\n\u5c71\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:25:38": "1\nAnotherexample\nf(U)=\n1+e-+\n0200\n120\n{ocal gradient]x[its gradient]\nx0[2]\u00d7[0.2]=04\nWO:[-1]X[0.2]=-0.2\n\u81ea00\ndf\n1\ndf\nf(n\uff09=\nf(a\uff09=e\u00b2\n\u20141/\ndr\ndt=1\nL\uff08x\uff09=r\n\u4e090\nf\uff08x\uff09=c+x\nLecture4-41\nFei-Fei Li&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:45": "1\nAnotherexample\nf(W=)=\n1e+Usx|+u2\nMO.200\nlocalgradientx[itradient\n\uff08\u5382\nx0:[2]x[0.2=0.4\n+0\nw0:[-1]\u00d7[0.2]=-0.2\n(000\n=0\u7c73-010F0\ndf\ndf\nf(\uff09=\nf\uff08a\uff09e\u00b2\n-1/\n\uff08z\uff09=01\nda\n\u4e090\nfe\uff08c\uff09=c+x\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:46": "1\nAnotherexample\nf(U\u3001x)=\n1te-+0+ux\n4O.D0\n[ocal gradient]x[itsgradient\n\u5047 \u4e00\u95f4\nX0:[21x[0.2=04\n0-10\nW0:[-1]x[0.2]=-0.2\n(000\n\u4ea70 100080\nW\ndf\n\u4e00\n1\ndf\nf\uff08x\uff09=\nf(x\uff09=e\n-18\nd\nd1\n\uff08x\uff09=0m\nda\nf\uff08x\uff09=C+x\nLecture4-41\nFei-Fei Li&AndrejKarpathy&Justin Johnson\n13 Jan2016\n"
+}{
+    "0:25:47": "1\nAnotherexample\nf(w\u3001x\uff09\n1+eW\nwI200\n{local gradient]x[its radient\nx0\uff1a[21X[0.21=0.4\nQ-10\nw0:[-1]x[0.2]=-0.2\n00\ndf\ndf\nf\uff08x\uff09=\nf\uff08E\uff09c\u00b2\n-1\uff0f\n\u9762\nd\nd\uff01\n\uff08\u56e0\uff09=0r\nfe\uff08z\uff09=c+x\naa\n\u4e090\nda\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:48": "1\nAnotherexample\nf(w,)\n1+e-\uff08x+wx\uff08+m\uff09\uff09\n\uff0880\n{ocal gradient]x[itsgradient\nx0[2]\u00d7[0.2=04\nw0:[-1]x[0.2]=-0.2\ndf\n1\n\u4e00e\ndf\nf\uff08\uff09\n-1/\nf(x\uff09=r\n\u516c\nd=1\nf.\uff08x\uff09=ar\nf\uff08x\uff09=c+\ndx\nLecture 4-41\nFei-FeiLi&AndreKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:49": "1\nAnotherexample\nf(Ux\uff09=\ntem\n00\n[ocal gradient]x[its gradient\nx0\uff1a12]\u00d7[0.2]=04\nw0:[-1]x[0.2]=-0.2\ndf\ndf\n1\n(n\uff09=\n\u4e09-1/x\nf\uff08a\uff09e\nda\nd\nd=\uff01\naf\n\uff08\u56db\uff09=\nfe\uff08a\uff09=c+x\nda\n\u4e00\u4e94\nda\nLecture 4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:50": "1\nAnotherexample\nf(U)=\n1e(+u\uff09\uff09\n02.00\n[local gradient]x[its gradient]\nX0[2]x[0.2=04\n+0\nw0.(-1]x[0.2]=-0.2\n1000\ndf\n1\ndf\nf(x\uff09=\nf\uff08x\uff09e\u00b2\nd\nd\nd=1\n\uff08z\uff09=0mm\nfe\uff08x\uff09=.c+r\naa\n\u4e090\nLecture4-41\nFei-Fei Li&AndreiKarpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:25:51": "1\nAnotherexample\nf(wx)=\n1+wpr+w\uff09\nwi300\n{local gradient]x[its gradien\nX0[2]X[02=0.4\nw0:[-1]x[0.2]=-0.2\n(10\nW\ndf\nd\u5382\nf\uff08n\uff09=\nj\uff08x)c\n-1\nd\nd=1\nf\uff08x\uff09=mm\nf\uff08x\uff09=c+x\nda\n\u4e090\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:52": "0\u606f\n1\nAnotherexample\nf(U)=\n1+e-\uff08Wgng+wa+m\nO.2:00\n{local gradient xigradin\nX0:121x[0.2=04\n0-050\nWO:[-1]X[0.2]=-0.2\n0\u65b000H0100\n\u53c81100\ndf\nf\uff08r\uff09=\nf\uff08\u4e8c\uff09c\u00b2\n-1\n\u9762\ndi=1\n\uff08x\uff09=0r\nfe\uff08x\uff09=c+x\nde\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:54": "1\nAnotherexample\nf(U)\n1w\n[local gradient]x[its gradient\nx0[2]\u00d7[0.21=04\nw0:[-1]\u00d7[0.2]=-0.2\ndf\n1\ndf\nf\uff08m\uff09=\n-1/8\nf\uff08x\uff09==\u00b2\n\u9762\n=1\nfe\uff08x\uff09=c+r\n.\uff08\uff08\uff09=0r\n\u4e090\ndr\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:25:55": "1\nAnotherexample\nf(U)=\n1e+u\uff09\nlocal gradientx[its gradient\nx0:[21x[021=0.4\nw0:[-1]x[0.2]=-0.2\nS7100\ndf\n\u4e00\ndf\nf\uff08r\uff09=\nf\uff08x\uff09e\u00b2\n-1/\nd\ndf=1\nL.\uff08x\uff09=\nfe\uff08x\uff09=c+m\ndae\nLecture4-41\nFei-Fei Li&AndrejKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:25:56": "1\nAnotherexample\nf(3\uff0cx\uff09=\n1+e-(wU+m\uff09\n300\n\u798f\n{ocal gradient]x[its gradient]\nx0\uff1a[2]x[0.2]=04\nQ-0\nw0:[-1]x[0.2]=-0.2\n10000\n0\ndf\n1\ndf\nf(x)=\n-18\nf(a\uff09=e\u00b2\nd\nd=1\nf\uff08z\uff09=an\nda\nf\uff08x\uff09=c+x\ndr\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:25:58": "1\nAnotherexample\nf(w.x\uff09=\n1+e-++B\uff09\nMO 100\nflocalgradientx[itsgradient\nO\u9ad8\nx0\uff1a121x[0.21=0.4\nw0:[-1]X[0.2]=-0.2\ndf\nTe\n1\ndf\nf\uff08n\uff09=\n-1/\nf(x\uff09\u4e09=\u00b2\nd\nf\uff08x\uff09=0r\n\u4e096\nfe\uff08x\uff09=c+r\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:25:59": "1\nAnotherexample\nf(w\u3001)=\n1te-x+u+u2\nWO 200\n120\n{ocal gradient]x[its gradient\nx0[2]x[0.21=04\nQ-0\nW0:[-1]x[0.2]=-0.2\n\u976200\n2200\ndf\n\u4e00p\ndf\nf\uff08n\uff09=\n\u2014\u201418\nf\uff08x\uff09=e\u00b2\nda\nd=1\nd\n\uff08x\uff09=0r\nar\nf\uff08x\uff09=c+x\nda\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:26:00": "\u5409\u54c1\n1\nAnotherexample\nf(UH)=\n1+eW+mn+wg\uff09\nO200\n{local gradientx[its gradient]\n\uff08\uff09\u9762\nX0:121X[0.21=04\nWO:[-1]x[0.2]=-0.2\ndf\n1\nd\u5382\nf\uff08n\uff09=\n16\nf\uff08r\uff09=s\nd\nd\nd=1\n.\uff08x\uff09=0r\nfe\uff08x\uff09=c+r\n\u4e090\nda\nLecture4-41\nFei-Fei L&AndrejKarpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:26:01": "1\nAnotherexample\nf(w\uff0c)=\n1+e-\uff08wax+Un+u\n{ocal gradientx[itsgradient]\nx0:[2]\u00d7[0.21=04\nw0:[-1]x[0.2]=-0.2\ndf\nd\u5382\n1\nf\uff08x\uff09\n-1\nf\uff08a\uff09=c\u00b2\nd\n\uff08\uff09=a\nfA\uff08x\uff09=C+r\n\u4e09\uff08\nda\nLecture4-41\nFel-Fei Li& AndrejKarpathy&Justin Johnson\n13Jan2016\n"
+}{
+    "0:26:02": "1\nAnotherexample\nf(U)=\n1+e+w\nMO.200\n[local gradientx[itsgradient]\n\uff0810\nX0:[21X[0.21=0.4\nw0:[-1]x[0.2]=-0.2\ndf\ndf\n\uff08r\uff09=\n-1/8\nf\uff08x\uff09c\u00b2\ndr\nq1\ndf\nL.\uff08x\uff09=ar\nd\nfe\uff08x\uff09=c+x\n\u4e2d\nLecture4-41\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:26:03": "1\nAnotherexample\nf(wx)=\nODO\n[ocal gradient]x[its gradient\n0:[2]\u00d7[0.2]=04\nw0:[-1]x[0.2]=-0.2\ndf\nd\n1\nf\uff08n\uff09=\nf\uff08a\uff09=e\u00b2\nd=1\nd\n\uff08x\uff09=ax\nAa\nfe\uff08x\uff09=c+m\nLecture4-41\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:26:05": "1\n(x\uff09=\nf(w\u3001x\uff09=\n1+e\nsigmoid function\n1+e-(loz)+\uff09\ndg\uff08x\uff09\n4e\n\uff081-g\uff08x\uff09\uff09\uff08x\uff09\nd\n\uff081+e-x\uff09\uff09\n\u4e09\nSigmoid gate\n\u798f\nLecture4-42\nFei-FeiLi&AndrejKarpathy&JustinJohnson\n13 Jan2016\n"
+}

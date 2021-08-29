@@ -1,0 +1,21 @@
+{
+    "0:00:00": "Lecturo 4\nBackpropagation\nNeural Networks part \n"
+}{
+    "0:00:10": "Administrative\nA1isdueJan20(Wednesdy).150 hours left\nWarning Jan 18\uff08Monday\uff09isHoliday\uff08no class/office hours\nAlsonote\nLecturesarenon-exhaustive\nRead coursenotesforcompleteness\nI hold make up office hourson Wed Jan20.5pm@Gates259\nFei-FeiLi&AndrejKarpathy&JustinJahnson\nLecture4-2\n13Jan2016\n"
+}{
+    "0:00:24": "Administrative\nA1is due Jan 20(Wednesday)150hoursf\nWaming.Jan 18 Monday)isoliy\uff08oclass/ofichou\nAiso note\nLecturesarenon-exhaustive\nRead coursenotesforcompleteness\nYit hold make up office hours  Wed Jan20.5pm@ Gates259\nLecture4-2\nFelFei Li&Andrei Karpathy &.Justin Johnson\n18 Jan 2016\n"
+}{
+    "0:01:11": "Administrative\nA1isdueJan 20\uff08Wednesy)1\nWaring Jan18(Monday) is Holiday\uff08no classloffice hours\nAisonote\nLectures are non-exhaustive\nReadcourse notes for completeness\nYl hold make up office hoursonWedJan20.5pm@Gates259\nLecture 4.2\nFel-FeiL&AndreiKarpathy &Justin Johnson\n13Jan2016\n"
+}{
+    "0:01:37": "Whereweare.\nS=f\uff08aW)=Wr\nscoresfunction\nL=M\u9001y\nmax\uff080\uff0cs=Su\uff0c+1\nSVMloss\nL=NCNL+MW\ndata loss+reqularization\nwant\nVwL\nLecture4-3\nFel-FeiLi&AndreiKarpathy&JustinJohnson\n13 Jan 2016\n"
+}{
+    "0:02:25": "GradientDescent\ndf\uff08x\uff09\uff09\nf\uff08x+h\uff09-f\uff08x\uff09\n1im\nh\nNumerical gradient slowel.approximateeayowi\nAnalytic gradient:fast:),exact\uff09r-prone\nIn practice,Deriveanalytic gradient,heckyour\nimplementationwithnumerical gradient\nLecture:4-5\nFei-FeiLi&AndrejKarpathy&Justin Johnson\n13 Jan 2016\n"
+}{
+    "0:04:49": "50\u53f7\nNeural TuringMachine\n9\n13Jan2016\n"
+}{
+    "0:06:01": "X2\nf(x,y,2\uff09=(c+y)z\ne.g.x=-2y=5Z=-4\ny5\n8g\n8g\ng=x+y\n\u4e8c1\na\na\naf\nf=qz\n\u5143\u30010\u5143\n9\nog\nofof\naf\nWant\nZORHe\nLecture4-11\nFei-FeiLi&Andrei Karpathy&JustinJohnson\n13Jan2016\n"
+}{
+    "0:12:31": ""
+}{
+    "0:12:32": "activations\nLecture4-22\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}

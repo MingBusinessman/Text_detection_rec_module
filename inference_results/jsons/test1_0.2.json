@@ -1,0 +1,15 @@
+{
+    "0:00:00": "Lecturo 4\nBackpropagation\nNeural Networks part \n"
+}{
+    "0:00:10": "Administrative\nA1isdueJan20(Wednesdy).150 hours left\nWarning Jan 18\uff08Monday\uff09isHoliday\uff08no class/office hours\nAlsonote\nLecturesarenon-exhaustive\nRead coursenotesforcompleteness\nI hold make up office hourson Wed Jan20.5pm@Gates259\nFei-FeiLi&AndrejKarpathy&JustinJahnson\nLecture4-2\n13Jan2016\n"
+}{
+    "0:02:25": "GradientDescent\ndf\uff08x\uff09\uff09\nf\uff08x+h\uff09-f\uff08x\uff09\n1im\nh\nNumerical gradient slowel.approximateeayowi\nAnalytic gradient:fast:),exact\uff09r-prone\nIn practice,Deriveanalytic gradient,heckyour\nimplementationwithnumerical gradient\nLecture:4-5\nFei-FeiLi&AndrejKarpathy&Justin Johnson\n13 Jan 2016\n"
+}{
+    "0:04:49": "50\u53f7\nNeural TuringMachine\n9\n13Jan2016\n"
+}{
+    "0:06:03": "16\u767d\nX2\nf(x,y\uff0cz\uff09=(x+y)\ne.g.x=-2\uff0cy=5z=-4\ny5\n8g\naq\nZ\nq=a+y\n\u4e091\nr\nu\n8f\naf\nf=qz\ng\n9\nofof\nof\nWant:\nzehe-O\nLecture:4-11\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13 Jan2016\n"
+}{
+    "0:12:31": ""
+}{
+    "0:12:32": "activations\nLecture4-22\nFei-FeiLi&AndreiKarpathy&JustinJohnson\n13Jan2016\n"
+}
